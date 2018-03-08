@@ -1,0 +1,3 @@
+# Details
+- author: chadaaditya@outlook.com
+- role: STUDENT
